@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc47edf5e4848240a0dbb28928a53f2, type: 3}
+  m_Name: frutas
+  m_EditorClassIdentifier: Assembly-CSharp::BallsItem
+  name_: Frutas
+  ballsColor:
+  - spr: {fileID: 2406239511609747532, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 0
+  - spr: {fileID: -5985375666622007917, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 1
+  - spr: {fileID: 619426846574319872, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 2
+  - spr: {fileID: 1865175470216889779, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 3
+  - spr: {fileID: -6527456407965906944, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 4
+  - spr: {fileID: 2432236953936985608, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 5
+  - spr: {fileID: -1521192242703698820, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 6
+  - spr: {fileID: -7903700213742864937, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+    color: 7

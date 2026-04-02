@@ -1,0 +1,20 @@
+{
+    "asset": "1578b8e49ac7a3e4b91f015c501e33a4",
+    "fileName": "019bab2d-0af0-73f0-bc26-7ee458393e3d.png",
+    "prompt": "pato de borracha estilo desenho, na cor branca",
+    "negativePrompt": "",
+    "model": "e4f980c5-458a-4e66-b7a7-cff7b209c525",
+    "modelName": "Emoji Designer",
+    "customSeed": -1,
+    "w3CTraceId": "d909777f15ff7a87afcaab19b8f2cb07",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

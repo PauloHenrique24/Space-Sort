@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3134f2126d7dbbe45960da8396c9873b, type: 3}
+  m_Name: Frutas
+  m_EditorClassIdentifier: Assembly-CSharp::StoreItem
+  icon: {fileID: 1865175470216889779, guid: 4b0be37941b849d488f7ec464b77b833, type: 3}
+  sprite_itens: {fileID: 0}
+  typeBuy: 0
+  type: 1
+  value: 3
+  id: 6
+  default_: 0
+  item_ball: {fileID: 11400000, guid: 3f24d8b9d95335f4ba39d57e81313efd, type: 2}

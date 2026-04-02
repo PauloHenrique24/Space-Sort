@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3134f2126d7dbbe45960da8396c9873b, type: 3}
+  m_Name: BgDefault
+  m_EditorClassIdentifier: Assembly-CSharp::StoreItem
+  icon: {fileID: -6956110526292568399, guid: 28217027d4ec4cc4ca783767cb0b13b8, type: 3}
+  sprite_itens: {fileID: -7549188909238353959, guid: 387eeed2da543024a807776736532728, type: 3}
+  typeBuy: 0
+  type: 2
+  value: 100
+  id: 1
+  default_: 1

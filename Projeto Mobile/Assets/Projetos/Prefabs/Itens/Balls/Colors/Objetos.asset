@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc47edf5e4848240a0dbb28928a53f2, type: 3}
+  m_Name: Objetos
+  m_EditorClassIdentifier: Assembly-CSharp::BallsItem
+  name_: Dia a Dia
+  ballsColor:
+  - spr: {fileID: -5168682945977497857, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 0
+  - spr: {fileID: 1232837803106212185, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 1
+  - spr: {fileID: -6561924614043437590, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 2
+  - spr: {fileID: -8825065066896196986, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 3
+  - spr: {fileID: -568186732135234174, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 4
+  - spr: {fileID: 1664846364103932319, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 5
+  - spr: {fileID: 4485095197329404097, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 6
+  - spr: {fileID: -1942565241824689928, guid: 13c24bc0f6721764dae2b487f889c320, type: 3}
+    color: 7

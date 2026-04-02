@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3134f2126d7dbbe45960da8396c9873b, type: 3}
+  m_Name: BolaDefault
+  m_EditorClassIdentifier: Assembly-CSharp::StoreItem
+  icon: {fileID: -2087716182758220824, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+  sprite_itens: {fileID: 0}
+  typeBuy: 0
+  type: 1
+  value: 0
+  id: 2
+  default_: 1
+  item_ball: {fileID: 11400000, guid: 6878402633a94fa4c8e989cfd2c9cc6d, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc47edf5e4848240a0dbb28928a53f2, type: 3}
+  m_Name: bolas
+  m_EditorClassIdentifier: Assembly-CSharp::BallsItem
+  name_: Bolas
+  ballsColor:
+  - spr: {fileID: 6831061957597469130, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 0
+  - spr: {fileID: 713762322953542611, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 1
+  - spr: {fileID: 5800015382579095254, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 2
+  - spr: {fileID: 2359696571865698161, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 3
+  - spr: {fileID: 5866674688610652673, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 4
+  - spr: {fileID: -2087716182758220824, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 5
+  - spr: {fileID: -2868634709578467919, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 6
+  - spr: {fileID: -8999979611246836851, guid: d8859e68eebad5b4fb057d1b9d69d733, type: 3}
+    color: 7

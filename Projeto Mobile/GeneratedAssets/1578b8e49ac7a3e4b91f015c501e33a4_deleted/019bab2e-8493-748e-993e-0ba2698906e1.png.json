@@ -1,0 +1,20 @@
+{
+    "asset": "1578b8e49ac7a3e4b91f015c501e33a4",
+    "fileName": "019bab2e-8493-748e-993e-0ba2698906e1.png",
+    "prompt": "deixe mais desenhado sem parecer 3d",
+    "negativePrompt": "",
+    "model": "e4f980c5-458a-4e66-b7a7-cff7b209c525",
+    "modelName": "Emoji Designer",
+    "customSeed": -1,
+    "w3CTraceId": "d1b93d16b480b68ac40bb7d1966662c3",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
